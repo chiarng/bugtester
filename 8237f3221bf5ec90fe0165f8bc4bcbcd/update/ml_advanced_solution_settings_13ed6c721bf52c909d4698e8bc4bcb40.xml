@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ml_advanced_solution_settings">
+    <ml_advanced_solution_settings action="INSERT_OR_UPDATE">
+        <ml_capability_definition display_value="ml_x_cross_x_cross_bugtester_global_ml_x_cross_x_c">5bed6c721bf52c909d4698e8bc4bcb3c</ml_capability_definition>
+        <solution_parameters display_value="Use DBSCAN algo for clustering">f4c4ca8053c04010d1dcddeeff7b1236</solution_parameters>
+        <sys_class_name>ml_advanced_solution_settings</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2021-01-22 19:34:36</sys_created_on>
+        <sys_id>13ed6c721bf52c909d4698e8bc4bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="bugtester" source="x_cross_bugtester">8237f3221bf5ec90fe0165f8bc4bcbcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="bugtester">8237f3221bf5ec90fe0165f8bc4bcbcd</sys_scope>
+        <sys_update_name>ml_advanced_solution_settings_13ed6c721bf52c909d4698e8bc4bcb40</sys_update_name>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2021-01-22 19:34:36</sys_updated_on>
+        <user_inputs/>
+    </ml_advanced_solution_settings>
+</record_update>
